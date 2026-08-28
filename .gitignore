@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+# Raw API response cache. Rebuilt on demand and ~200 MB, so it is not part of
+# the reproduction package. data/ and results/ are tracked and are.
+cache/
+
+.env
+*.key
+
+paper/*.log
+paper/*.aux
+paper/*.out
