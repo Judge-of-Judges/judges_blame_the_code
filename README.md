@@ -115,7 +115,6 @@ data/dataset_humaneval.jsonl   1,453 verified variants
 data/dataset_lcb.jsonl         1,492 verified variants
 data/lcb_solutions.jsonl       verified LCB reference solutions
 results/verdicts_*.jsonl       every judge verdict, one JSON object per line
-paper/                         LaTeX source, figures, generated tables
 ```
 
 ## Install
